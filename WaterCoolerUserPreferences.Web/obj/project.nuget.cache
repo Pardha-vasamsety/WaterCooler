@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iE7pc5VLO52Z+lw0zlryFB/vTxc51Sr3KQ5ecKa55NWaVXJUiOa2VhCrDtTIkEJnZ84OWtCqB9NSICEJ2BissQ==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PardhasaradhiVasamse\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

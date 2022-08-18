@@ -1,0 +1,12 @@
+﻿<h3>User Preferences</h3>
+@page "/"
+@inherits UserPreferencesBase
+<div>
+   
+    @foreach (var Item in preferences.topics)
+    {
+        <div>
+            <h3>@Item.topic</h3>
+        </div>
+    }
+</div>
