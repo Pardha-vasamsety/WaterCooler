@@ -1,0 +1,73 @@
+{
+"topics":
+		[
+			{
+				"topic": "Block Chain",
+				"subtopics":
+				[
+					{ "id": "1001", "name": "Crypto Currencies" },
+					{ "id": "1002", "name": "NFT" },
+					{ "id": "1003", "name": "Banking" }
+				]
+			},
+			{
+				"topic": "Finance",
+				"subtopics":
+				[
+					{ "id": "1004", "name": "401K" },
+					{ "id": "1005", "name": "Stocks" },
+
+				]
+			},
+			{
+				"topic": "Renewable Energy",
+				"subtopics":
+				[
+					{ "id": "1004", "name": "401K" },
+					{ "id": "1005", "name": "Stocks" },
+
+				]
+			}
+		],
+	"frequency":
+		[
+			{ "id": "01", "name": "Daily" },
+			{ "id": "02", "name": "Weekly" },	
+			{ "id": "03", "name": "Monthly" },
+			{ "id": "04", "name": "Unsubscribe" },
+		],
+	"workinghoursfrom":
+		[
+			{ "id": "01", "name": "Morning" },
+			{ "id": "02", "name": "Midday" },	
+			{ "id": "03", "name": "Evening" }
+		],
+"workinghoursto":
+		[
+			{ "id": "24", "name": "12:00 am" },
+			{ "id": "01", "name": "01:00 am" },
+			{ "id": "02", "name": "02:00 am" },	
+			{ "id": "03", "name": "03:00 am" },
+			{ "id": "04", "name": "04:00 am" },
+			{ "id": "05", "name": "05:00 am" },
+			{ "id": "06", "name": "06:00 am" },
+			{ "id": "07", "name": "07:00 am" },
+			{ "id": "08", "name": "08:00 am" },
+			{ "id": "09", "name": "09:00 am" },
+			{ "id": "10", "name": "10:00 am" },
+			{ "id": "11", "name": "11:00 am" },
+			{ "id": "12", "name": "12:00 pm" },
+			{ "id": "13", "name": "01:00 pm" },
+			{ "id": "14", "name": "02:00 pm" },
+			{ "id": "15", "name": "03:00 pm" },
+			{ "id": "16", "name": "04:00 pm" },
+			{ "id": "17", "name": "05:00 pm" },
+			{ "id": "18", "name": "06:00 pm" },
+			{ "id": "19", "name": "07:00 pm" },
+			{ "id": "20", "name": "08:00 pm" },
+			{ "id": "21", "name": "09:00 pm" },
+			{ "id": "22", "name": "10:00 pm" },
+			{ "id": "23", "name": "11:00 pm" }
+		
+		]
+}

@@ -1,0 +1,169 @@
+﻿@model Preferences.Models.UserPreferences
+@{
+    ViewData["Title"] = "User Preferences";
+
+}
+
+                              
+
+   <div>
+        <link href="./watercoolercontainer.css" rel="stylesheet" />
+
+        <div class="watercoolercontainer-container">
+            <div class="watercoolercontainer-watercoolercontainer">
+                <div class="watercoolercontainer-group625745">
+                    <div class="watercoolercontainer-depth-card"></div>
+                    <div class="watercoolercontainer-header">
+                        <div class="watercoolercontainer-userdetails">
+                            <span class="watercoolercontainer-text segoeUIRegular14-Ms-FontSize-14FontSizes.Size14">
+                                <span class="watercoolercontainer-text01">Welcome</span>
+                                <span class="watercoolercontainer-text02">
+                                    Costas Voliotis
+                                </span>
+                            </span>
+                            <span class="watercoolercontainer-text03 small400">
+                                <span class="watercoolercontainer-text04">Not You?</span>
+                                <span class="watercoolercontainer-text05">Signout</span>
+                            </span>
+                        </div>
+                        <div class="watercoolercontainer-logosm">
+                            <img src="~/images/wcicon.svg"   class="watercoolercontainer-group89" />
+                        </div>
+                    </div>
+                    <div class="watercoolercontainer-info">
+                        <div class="watercoolercontainer-frame-base">
+                            <div class="watercoolercontainer-iconstringstack">
+                                <span class="watercoolercontainer-text06">
+                                    <span class="watercoolercontainer-text07">
+                                        <span class="alert-content">
+                                            We’re convinced you deserve a 15-minute break, all it
+                                            takes is two easy steps:
+                                        </span>
+                                        <br />
+                                        <span></span>
+                                    </span>
+                                    <span class="watercoolercontainer-text11">
+                                        <span>
+                                            Pick your passions and choose how often you’d like to
+                                            meet.
+                                        </span>
+                                        <br />
+                                        <span>
+                                            We’ll schedule your break and send you a link to a Teams
+                                            meeting with collegues who share your interests.
+                                        </span>
+                                        <br />
+                                        <span>
+                                            Choose three passions from the following options!
+                                        </span>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="watercoolercontainer-frominput">
+                        <div class="watercoolercontainer-frame625751">
+                            <div class="watercoolercontainer-frame6257511">
+                                @foreach (var item in Model.topics)
+                                {
+ 	                                <div class="watercoolercontainer-frame6257512">
+		                                <span class="watercoolercontainer-text17 large400">
+			                                 @Html.DisplayFor(modelitem=> item.topic)
+		                                </span>
+                                    @foreach (var subtopic in item.subtopics)
+		                            {
+			                            <div class="watercoolercontainer-checkbox01default-unselected">
+				                            <label for="" class="watercoolercontainer-text18"> @Html.DisplayFor(modesublitem=> subtopic.name)</label>
+				                            <input type="checkbox" id=@Html.DisplayFor(modesublitem=> subtopic.id) class="watercoolercontainer-rectangle3">
+			                            </div>
+		                            }
+	                                </div>
+                                }
+                            </div>
+                            <div class="watercoolercontainer-frame6257514">
+                                <span class="watercoolercontainer-text29 large400">
+                                    How often would you like to meet
+                                </span>
+                                
+                                <div class="watercoolercontainer-frame6257515">
+                                 @foreach (var fr in Model.frequency)
+                                 {
+                                    <div class="watercoolercontainer-radio-button">
+                                        <div class="watercoolercontainer-checkbox01default-unselected">
+                                            <label for="" class="watercoolercontainer-text18">@Html.DisplayFor(modesublitem=> fr.name)</label>
+                                            <input type="radio" name="frequency" id="@Html.DisplayFor(modesublitem=> fr.id)" value="daily"
+                                                class="watercoolercontainer-rectangle3">
+                                        </div>
+                                    </div>
+                                   }
+                                  
+                                </div>
+                            </div>
+                            <div class="watercoolercontainer-frame6257521">
+                                <span class="watercoolercontainer-text34 large400">
+                                    Your working hours
+                                </span>
+                                <div class="watercoolercontainer-frame6257516">
+                                    <div class="watercoolercontainer-drop-down-active">
+                                        <label for="cars" class="watercoolercontainer-label">
+                                            <span class="watercoolercontainer-text35 captionRegular">
+                                                From
+                                            </span>
+                                            </span>
+                                        </label>
+
+                                        <select name="from" id="from"
+                                            class="watercoolercontainer-frameforbackgroundanderrorflexiblepositioning">
+                                        @foreach (var whf in Model.workingHoursFrom)
+                                        {
+                                            <option value="@whf.id">@whf.name</option>
+                                        }
+                                       </select>
+
+
+                                    </div>
+                                    <div class="watercoolercontainer-drop-down-active1">
+                                        <div class="watercoolercontainer-label1">
+                                            <span class="watercoolercontainer-text38 captionRegular">
+                                                To
+                                            </span>
+                                        </div>
+                                    <select name="from" id="from"
+                                            class="watercoolercontainer-frameforbackgroundanderrorflexiblepositioning">
+                                             @foreach (var whto in Model.workingHoursTo)
+                                            {
+                                               <option value="@whto.id)">@whto.name</option>
+                                            }
+                                        </select>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="buttonRow">
+                        <button class="primary-btn">
+                            <div class="watercoolercontainer-primary">
+                                <div class="">
+                                    <span class="watercoolercontainer-text45 baseSemibold">
+                                        Update
+                                    </span>
+                                </div>
+                            </div>
+                        </button>
+                        <button class="watercoolercontainer-frame-master-button-text-medium">
+                            <div class="watercoolercontainer-min-width-wrapper">
+                                <div class="watercoolercontainer-flexible-layout">
+                                    <span class="watercoolercontainer-text44 baseSemibold">
+                                        Back
+                                    </span>
+                                </div>
+                            </div>
+                        </button>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
