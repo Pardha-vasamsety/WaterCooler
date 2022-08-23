@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWx5YxqAaGehq2GS7mI5OsriVfJJM7AdGissiRalAp9ybY89dxjjdnYQrCN3Dg/Gvk1QfcE8+CoiNj3pAsKRgQ==",
+  "dgSpecHash": "2kVLeZnIDpMOcoDpnepebajIgq0GUU57GARModRPd26eQx+tdbzQccO0XvRTyHnav/gwXpmJOc+ASvI0WpAYDw==",
   "success": true,
-  "projectFilePath": "C:\\Work\\Projects\\Watercooler\\Development\\Preferences\\Preferences.csproj",
+  "projectFilePath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\Preferences\\Preferences.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PardhasaradhiVasamse\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

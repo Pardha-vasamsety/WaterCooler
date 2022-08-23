@@ -10,3 +10,15 @@ C:\Work\Projects\Watercooler\Development\WaterCoolerUserPreferences.Models\obj\D
 C:\Work\Projects\Watercooler\Development\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\refint\WaterCoolerUserPreferences.Models.dll
 C:\Work\Projects\Watercooler\Development\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\WaterCoolerUserPreferences.Models.pdb
 C:\Work\Projects\Watercooler\Development\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\ref\WaterCoolerUserPreferences.Models.dll
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\bin\Debug\net6.0\WaterCoolerUserPreferences.Models.deps.json
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\bin\Debug\net6.0\WaterCoolerUserPreferences.Models.dll
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\bin\Debug\net6.0\WaterCoolerUserPreferences.Models.pdb
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\WaterCoolerUserPreferences.Models.csproj.AssemblyReference.cache
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\WaterCoolerUserPreferences.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\WaterCoolerUserPreferences.Models.AssemblyInfoInputs.cache
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\WaterCoolerUserPreferences.Models.AssemblyInfo.cs
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\WaterCoolerUserPreferences.Models.csproj.CoreCompileInputs.cache
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\WaterCoolerUserPreferences.Models.dll
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\refint\WaterCoolerUserPreferences.Models.dll
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\WaterCoolerUserPreferences.Models.pdb
+C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Models\obj\Debug\net6.0\ref\WaterCoolerUserPreferences.Models.dll

@@ -1,0 +1,36 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.12/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.13",
+  "version": "1.0.3",
+  "id": "00000000-0000-0000-0000-000000000003",
+  "packageName": "watercooler.fun",
+  "developer": {
+    "name": "Watercooler",
+    "websiteUrl": "https://watercooler.fun",
+    "privacyUrl": "https://watercooler.fun/privacy",
+    "termsOfUseUrl": "https://watercooler.fun/termsofuse"
+  },
+  "name": {
+    "short": "Welcome to the future of Break",
+    "full": "WaterCooler is here to make it easier for you to socialize and connect in the workplace"
+  },
+  "description": {
+    "short": "Welcome to the future of breaks",
+    "full": "In a remote working environment Employees are hesitant to call a spontaneous video conference just to chat Watercooler.fun is an inherently simple, effortless Microsoft Dynamics 365 solution designed from the ground up to meet the needs of SMEs and enterprises for watercooler discussions.\r\n\t         Watercooler ensures that newcomers meet their teammates without stress, provides managers with an ice-breaking communication tool and helps executives re-evaluate the company's culture Watercooler fun has developed on the top of Microsoft teams a virtual predefined duration meeting scheduler, that bridges people with similar interests on a remote working environment. \r\n\t \nWe're convinced that everybody deserves a 15 -minutes break, all it takes is two easy steps. The employee picks-up his passions from a short list of pre-approved topics and he chooses how often he 's likes to meet with his teammates Watercooler fun schedules the breaks and sends link to team meetings with the colleagues who share the same interests.\n\n\n [*** App Featuers ***]\n1. Simplicity: The user defines only what it matters the topic and the frequency.\n2. The application handles the synchronization complexity considering the different time zones\n3. Automated matching of the participants\n4. Meeting invitations are sent through outlook\n5. Eligibility control: The application automatically evaluates participants eligibility\n6. 24 hours secure notice time: Regardless the time zone participants are invited at least with 24 hours notice time.  The application automatically handles the timezones matching.\n7. Event with specific topics: A simple list of predefined (approved by the admin topics)\n8. The topics are rotated by the application. The user invited to participate on call with different topis until the list of topics is exceeded\n8. Admin dashboards with analytics and listing of the last weeks’s arranged events"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#60A18E",
+  "staticTabs": [
+    {
+      "entityId": "com.watercooler.fun",
+      "name": "User Preferences",
+      "contentUrl": "https://a394-122-162-38-12.in.ngrok.io",
+      "scopes":  [ "team" ]
+    }
+  ],
+  "permissions": [],
+  "validDomains": []
+}

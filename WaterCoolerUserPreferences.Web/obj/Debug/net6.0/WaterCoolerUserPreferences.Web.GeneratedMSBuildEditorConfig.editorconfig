@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WaterCoolerUserPreferences.Web
 build_property.RootNamespace = WaterCoolerUserPreferences.Web
-build_property.ProjectDir = C:\Work\Projects\Watercooler\Development\WaterCoolerUserPreferences.Web\
+build_property.ProjectDir = C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Work\Projects\Watercooler\Development\WaterCoolerUserPreferences.Web
+build_property.MSBuildProjectDirectory = C:\Work\Projects\Watercooler\Development\WaterCooler\WaterCoolerUserPreferences.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Work/Projects/Watercooler/Development/WaterCoolerUserPreferences.Web/App.razor]
+[C:/Work/Projects/Watercooler/Development/WaterCooler/WaterCoolerUserPreferences.Web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Projects/Watercooler/Development/WaterCoolerUserPreferences.Web/Pages/UserPreferencesPage.razor]
+[C:/Work/Projects/Watercooler/Development/WaterCooler/WaterCoolerUserPreferences.Web/Pages/UserPreferencesPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclByZWZlcmVuY2VzUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Projects/Watercooler/Development/WaterCoolerUserPreferences.Web/_Imports.razor]
+[C:/Work/Projects/Watercooler/Development/WaterCooler/WaterCoolerUserPreferences.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Projects/Watercooler/Development/WaterCoolerUserPreferences.Web/Shared/MainLayout.razor]
+[C:/Work/Projects/Watercooler/Development/WaterCooler/WaterCoolerUserPreferences.Web/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-78n9ng76gn
 
-[C:/Work/Projects/Watercooler/Development/WaterCoolerUserPreferences.Web/Shared/NavMenu.razor]
+[C:/Work/Projects/Watercooler/Development/WaterCooler/WaterCoolerUserPreferences.Web/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-sdbrz00ty8
 
-[C:/Work/Projects/Watercooler/Development/WaterCoolerUserPreferences.Web/Pages/Error.cshtml]
+[C:/Work/Projects/Watercooler/Development/WaterCooler/WaterCoolerUserPreferences.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Projects/Watercooler/Development/WaterCoolerUserPreferences.Web/Pages/_Host.cshtml]
+[C:/Work/Projects/Watercooler/Development/WaterCooler/WaterCoolerUserPreferences.Web/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Work/Projects/Watercooler/Development/WaterCoolerUserPreferences.Web/Pages/_Layout.cshtml]
+[C:/Work/Projects/Watercooler/Development/WaterCooler/WaterCoolerUserPreferences.Web/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Projects\\Watercooler\\Development\\Preferences\\Preferences.csproj",
+      "projectUniqueName": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\Preferences\\Preferences.csproj",
       "projectName": "Preferences",
-      "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\Preferences\\Preferences.csproj",
+      "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\Preferences\\Preferences.csproj",
       "packagesPath": "C:\\Users\\PardhasaradhiVasamse\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Projects\\Watercooler\\Development\\Preferences\\obj\\",
+      "outputPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\Preferences\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PardhasaradhiVasamse\\AppData\\Roaming\\NuGet\\NuGet.Config",

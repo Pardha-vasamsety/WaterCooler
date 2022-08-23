@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj",
+      "projectUniqueName": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj",
       "projectName": "WaterCoolerUserPreferences.Models",
-      "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj",
+      "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj",
       "packagesPath": "C:\\Users\\PardhasaradhiVasamse\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\obj\\",
+      "outputPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PardhasaradhiVasamse\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj": {}
+    "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj": {
+    "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj",
+        "projectUniqueName": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj",
         "projectName": "WaterCoolerUserPreferences.Models",
-        "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj",
+        "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj",
         "packagesPath": "C:\\Users\\PardhasaradhiVasamse\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\obj\\",
+        "outputPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PardhasaradhiVasamse\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj": {
+    "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj",
+        "projectUniqueName": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj",
         "projectName": "WaterCoolerUserPreferences.Web",
-        "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj",
+        "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Web\\WaterCoolerUserPreferences.Web.csproj",
         "packagesPath": "C:\\Users\\PardhasaradhiVasamse\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Web\\obj\\",
+        "outputPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PardhasaradhiVasamse\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj": {
-                "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj"
+              "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj": {
+                "projectPath": "C:\\Work\\Projects\\Watercooler\\Development\\WaterCooler\\WaterCoolerUserPreferences.Models\\WaterCoolerUserPreferences.Models.csproj"
               }
             }
           }
